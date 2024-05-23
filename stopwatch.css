@@ -1,0 +1,37 @@
+body { 
+    	font-family: verdana; 
+		display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+	background-color: rgb(215, 240, 210);
+} 
+.digit { 
+	font-size: 80px; 
+	color: #000000; 
+} 
+.txt { 
+	font-size: 30px; 
+	color: #000000; 
+} 
+#buttons { 
+	margin-top: 50px; 
+} 
+.btn { 
+	width: 100px; 
+	padding: 4px 8px; 
+	margin: 0px 45px; 
+	font-size: 20px; 
+	color: rgb(255, 255, 255); 
+	font-weight: 500; 
+
+} 
+#start { 
+	background-color: #020049; 
+} 
+#stop { 
+	background-color:  #020049; 
+} 
+#reset { 
+	background-color: #020049; 
+}
